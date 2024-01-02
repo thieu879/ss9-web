@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.nen{
+    background-image: url("./anh/sua.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.khung{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+}
+.khung1{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    border: solid white;
+}
+.khung2{
+    width: 130px;
+    height: 40px;
+    border-radius: 10px;
+    background: red;
+}

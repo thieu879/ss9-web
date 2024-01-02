@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.khung{
+    width: 200px;
+    height: 100px;
+    background: gainsboro;
+    border: solid white;
+    border-width: 10px;
+    margin-left: 500px;
+    margin-top: 200px;
+}
+.khung:hover{
+    transition: all 2s;
+    border-radius: 50%;
+}
